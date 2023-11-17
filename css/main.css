@@ -1368,6 +1368,7 @@ body {
 }
 
 .linea-1, .linea-2 {
+  font-family: 'Cookie';
   display: inline-block;
   opacity: 0;
   animation: fadeInOut 3s infinite;
